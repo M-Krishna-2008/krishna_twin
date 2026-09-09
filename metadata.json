@@ -1,0 +1,8 @@
+{
+  "name": "Remix KRISHNA.AI",
+  "description": "Personal AI digital twin chatbot for Krishna. Ask anything about Krishna\u0027s education, cybersecurity, projects, skills, and background.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
